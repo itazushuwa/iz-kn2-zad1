@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkloginpassword", "ConsoleApp1\checkloginpassword.csproj", "{5FA21725-F894-43B7-B910-2CD9894A41DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA21725-F894-43B7-B910-2CD9894A41DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA21725-F894-43B7-B910-2CD9894A41DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA21725-F894-43B7-B910-2CD9894A41DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA21725-F894-43B7-B910-2CD9894A41DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926B0427-6EB8-471D-8806-3698D05485A6}
+	EndGlobalSection
+EndGlobal
